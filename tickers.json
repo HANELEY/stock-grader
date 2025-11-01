@@ -1,0 +1,74 @@
+{
+  "AAPL": {
+    "name": "Apple Inc.",
+    "exchange": "NASDAQ"
+  },
+  "TSLA": {
+    "name": "Tesla, Inc.",
+    "exchange": "NASDAQ"
+  },
+  "NVDA": {
+    "name": "NVIDIA Corporation",
+    "exchange": "NASDAQ"
+  },
+  "SNOW": {
+    "name": "Snowflake Inc.",
+    "exchange": "NYSE"
+  },
+  "AMZN": {
+    "name": "Amazon.com, Inc.",
+    "exchange": "NASDAQ"
+  },
+  "MAYBANK.KL": {
+    "name": "Malayan Banking Berhad",
+    "exchange": "Bursa Malaysia"
+  },
+  "MAYBANK": {
+    "name": "Malayan Banking Berhad",
+    "exchange": "Bursa Malaysia"
+  },
+  "CIMB.KL": {
+    "name": "CIMB Group Holdings Berhad",
+    "exchange": "Bursa Malaysia"
+  },
+  "BP.L": {
+    "name": "BP plc",
+    "exchange": "LSE"
+  },
+  "HSBA.L": {
+    "name": "HSBC Holdings plc",
+    "exchange": "LSE"
+  },
+  "VOD.L": {
+    "name": "Vodafone Group plc",
+    "exchange": "LSE"
+  },
+  "0700.HK": {
+    "name": "Tencent Holdings Limited",
+    "exchange": "HKEX"
+  },
+  "0005.HK": {
+    "name": "HSBC Holdings plc (HK)",
+    "exchange": "HKEX"
+  },
+  "0700": {
+    "name": "Tencent Holdings Limited",
+    "exchange": "HKEX"
+  },
+  "RIO.L": {
+    "name": "Rio Tinto Group",
+    "exchange": "LSE"
+  },
+  "BP": {
+    "name": "BP plc",
+    "exchange": "LSE"
+  },
+  "MCD": {
+    "name": "McDonald's Corporation",
+    "exchange": "NYSE"
+  },
+  "BABA": {
+    "name": "Alibaba Group Holding Ltd",
+    "exchange": "NYSE/HKEX"
+  }
+}
